@@ -20,5 +20,5 @@ architecture, microservices, and distributed system patterns.
 
 ## Connect
 
-- ✍️ Newsletter: [https://berkansasmaz.com/]
-- 💼 LinkedIn: [linkedin linkin]
+- ✍️ Newsletter: https://berkansasmaz.com
+- 💼 LinkedIn: https://www.linkedin.com/in/berkansasmaz
