@@ -1,32 +1,24 @@
-<h1 align="center">Hi 👋, I'm Berkan Sasmaz</h1>
-<h3 align="center">Software Engineer</h3>
+# Berkan Sasmaz
 
-**💼 Currently working as:** Software Engineer at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>.
+Senior Software Engineer at Volosoft with 6+ years of experience in full-stack 
+.NET development. Focused on scalable, maintainable applications using clean 
+architecture, microservices, and distributed system patterns.
 
-📝 I regularly write articles on [my personal website (blog)](https://berkansasmaz.com/)
+## What I Work On
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkansasmaz&layout=compact&theme=tokyonight&count_private=true" alt="berkansasmaz" height="160" />
-<img src="https://github-readme-stats.vercel.app/api?username=berkansasmaz&show_icons=true&theme=tokyonight&count_private=true" alt="berkansasmaz" height="160" />
-</p>
+- **Daily Talking** — A new mobile app (React Native + .NET + Kubernetes) launching on iOS & Android
+- **ABP Framework** — Core team member of an open-source .NET platform with 13K+ GitHub stars
+- **ABP Studio** — Cross-platform desktop developer tool, now the company's flagship product
 
-<p align="center">
-</p>
+## Background
 
-<hr />
+- 6+ years building production systems across web, desktop, and mobile
+- 1 year as a full-time Developer Advocate — 100+ hours of training delivered on .NET, 
+  microservices, and modular monolith design
+- Experienced with Kubernetes in production environments
+- Helping teams integrate AI into their development workflows
 
-<h3 align="center"> 👨🏻‍💻 Social Media: </h4>
-           
-<p align="center">
-<a href="https:///berkansasmaz.com" target="blank"><img align="center" src="https://berkansasmaz.com/images/avatar.png" alt="personal blog" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/berkansasmaz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="berkansasmaz" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/9922629/berkansasmaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="berkansasmaz" height="30" width="30" /></a>
-<a href="mailto:berkansasmazz@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="berkansasmazz@gmail.com" height="30" width="30" /></a>
+## Connect
 
-</p>
-
-<hr />
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=berkansasmaz&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
-</p>
+- ✍️ Newsletter: [https://berkansasmaz.com/]
+- 💼 LinkedIn: [linkedin linkin]
